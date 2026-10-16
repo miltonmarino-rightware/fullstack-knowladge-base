@@ -35,3 +35,9 @@ Concordância entre duas IAs não equivale a confirmação independente: ambas p
 - Próxima expansão: DNS e caches; memória e processos; depois concorrência e transações, mantendo as ligações aos pilares próprios.
 
 O primeiro estudo liga camadas para orientar a aprendizagem. Não esgota o pilar Fundamentos nem determina a escolha de linguagens.
+
+## Investigação DAD-001
+
+- [Transações e limites](dados/01-transacoes-e-limites.md): síntese documental iniciada com quatro referências oficiais.
+- [L03 PostgreSQL](fundamentos/laboratorios/l03-postgresql/README.md): roteiro preparado, execução bloqueada pela ausência de PostgreSQL/psql/Docker neste ambiente.
+- Nenhuma execução PostgreSQL foi simulada ou substituída por resultados SQLite.

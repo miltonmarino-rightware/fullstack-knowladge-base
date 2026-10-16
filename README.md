@@ -6,7 +6,7 @@ Base de investigação, estudo e consulta para fundamentar as decisões de engen
 
 ## Estado inicial
 
-Estrutura criada em 2026-10-16. A investigação começou em Fundamentos, com uma síntese documental inicial e fontes consultadas. Os restantes tópicos continuam como mapa; não representam conhecimento validado. O foco atual é capacitação e construção da base de conhecimento. Projetos antigos são contexto histórico e não delimitam o âmbito.
+Estrutura criada em 2026-10-16. A investigação começou em Fundamentos, com uma síntese documental inicial e fontes consultadas. O pilar Dados também tem uma síntese documental sobre transações, com execução PostgreSQL pendente. Os restantes tópicos continuam como mapa; não representam conhecimento validado. O foco atual é capacitação e construção da base de conhecimento. Projetos antigos são contexto histórico e não delimitam o âmbito.
 
 ## Pilares
 
@@ -41,6 +41,8 @@ Cada pasta contém `README.md` (índice), `conhecimento.md` (documento principal
 - [Tarefa de pesquisa para o Perplexity](fundamentos/pesquisa-perplexity-001.md)
 - [Revisão do relatório complementar](fundamentos/revisao-fnd-001.md)
 - [Orientações para agentes](AGENTS.md)
+
+- [DAD-001 — transações e limites](dados/01-transacoes-e-limites.md)
 
 ## Orientações comuns
 

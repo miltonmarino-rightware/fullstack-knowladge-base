@@ -2,11 +2,11 @@
 
 **Âmbito:** Modelação, SQL, diferentes tipos de bases de dados, transações, desempenho e recuperação.
 
-**Estado:** por investigar.
+**Estado:** em investigação.
 **Atualização estrutural:** 2026-10-16.
-**Última revisão técnica:** ainda não realizada.
+**Última revisão documental:** 2026-10-16; execução pendente.
 
-Este documento será a referência principal do pilar. O índice abaixo é uma agenda de investigação, não uma síntese validada.
+Primeira síntese disponível: [DAD-001 — transações e limites](01-transacoes-e-limites.md). Este documento é o índice do pilar. O índice abaixo é uma agenda de investigação, não uma síntese validada.
 
 ## Modelação, relações e normalização
 

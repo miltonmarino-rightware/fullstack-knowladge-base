@@ -1,10 +1,16 @@
 # Dados — perguntas e pendências
 
-**Estado:** investigação por iniciar.
+**Estado:** investigação iniciada em transações.
 
 ## Pergunta inicial
 
 - [ ] Como escolher o modelo de dados e demonstrar integridade, desempenho e recuperação?
+
+## Próximas verificações
+
+- [x] Produzir [síntese documental sobre transações](01-transacoes-e-limites.md).
+- [ ] Executar [L03](../fundamentos/laboratorios/l03-postgresql/README.md) num PostgreSQL 18 de teste.
+- [ ] Investigar isolamento com duas sessões e evidências de concorrência.
 
 ## Trabalho de investigação
 

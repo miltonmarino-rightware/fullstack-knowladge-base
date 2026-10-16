@@ -2,13 +2,18 @@
 
 Modelação, SQL, diferentes tipos de bases de dados, transações, desempenho e recuperação.
 
-**Estado:** estrutura inicial; investigação por iniciar.
+**Estado:** investigação documental iniciada; laboratório PostgreSQL pendente.
 
 ## Documentos
 
 - [Conhecimento consolidado](conhecimento.md)
 - [Fontes e referências](fontes.md)
 - [Perguntas e pendências](perguntas.md)
+
+## Estudos
+
+- [DAD-001 — transações e limites](01-transacoes-e-limites.md)
+- [Roteiro L03 PostgreSQL](../fundamentos/laboratorios/l03-postgresql/README.md)
 
 ## Mapa de investigação
 

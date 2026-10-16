@@ -38,6 +38,8 @@ Limites: ilustra uma possibilidade; não prova que todos os timeouts tenham esta
 
 ## L03 — rollback local e efeito externo
 
+**Preparado, não executado:** [roteiro SQL, pré-requisitos e resultados esperados](laboratorios/l03-postgresql/README.md). Inclui extensão sobre sequências. PostgreSQL e Docker não estão disponíveis no ambiente atual.
+
 Pré-requisitos: PostgreSQL 18 de teste, cliente SQL e terminal separado para criar um ficheiro fictício.
 
 1. Criar e confirmar previamente uma tabela de laboratório com uma coluna obrigatória.
