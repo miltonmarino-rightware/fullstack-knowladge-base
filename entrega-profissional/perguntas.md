@@ -1,6 +1,6 @@
 # Entrega profissional — perguntas e pendências
 
-**Estado:** investigação por iniciar.
+**Estado:** investigação documental iniciada.
 
 ## Pergunta inicial
 
@@ -25,3 +25,9 @@
 - [ ] Rever a síntese antes de promover procedimentos a padrão da RIGHTWARE.
 
 Marcar tarefas apenas com ligação para o documento ou evidência que demonstra a conclusão.
+
+## Avanço inicial
+
+- [x] Produzir [ENT-001 — documentação e handoff](01-documentacao-e-handoff.md) e [percurso de estudo](percurso-formacao.md).
+- [ ] Aprofundar as lacunas identificadas no percurso.
+- [ ] Executar e registar o exercício proposto num contexto delimitado.

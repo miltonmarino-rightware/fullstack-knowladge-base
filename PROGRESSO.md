@@ -35,8 +35,8 @@ Cálculo editorial: 8 + 4 + 2 + 1 + 0 = 15 pontos em 100. A existência de orien
 | Arquitetura | Estudo inicial de módulos e decisões |
 | Segurança | Primeira síntese de modelação de ameaças nesta atualização |
 | Qualidade | Primeira síntese de testes e propriedades nesta atualização |
-| Infraestrutura e produção | Estrutura e referências transversais; percurso próprio ainda incompleto |
-| Entrega profissional | Estrutura e referências transversais; percurso próprio ainda incompleto |
+| Infraestrutura e produção | Percurso inicial e INF-001; instalação/recuperação ainda não ensaiadas |
+| Entrega profissional | Percurso inicial e ENT-001; handoff ainda não ensaiado |
 
 ## Como tornar a avaliação mais objetiva
 
@@ -47,9 +47,13 @@ Cálculo editorial: 8 + 4 + 2 + 1 + 0 = 15 pontos em 100. A existência de orien
 
 ## Próximos marcos
 
-- Completar percursos iniciais de Infraestrutura e Entrega profissional.
+- Percursos iniciais de Infraestrutura e Entrega criados; aprofundar as lacunas e produzir evidência.
 - Produzir estudos de Linguagens e Frontend a partir das unidades já selecionadas.
 - Aprofundar os estudos existentes e verificar afirmações com experiências adequadas.
 - Demonstrar reutilização num caso delimitado, registando o commit consultado.
 
 Não há previsão de prazo: depende do âmbito final e da profundidade de validação.
+
+## Registo do marco
+
+Em 2026-10-16, adicionados percursos e primeiras sínteses de Infraestrutura e Entrega profissional. A estimativa global mantém-se em cerca de 15%: ampliar a cobertura inicial não comprova domínio ou validação. Linguagens e Frontend são a próxima prioridade de síntese técnica.

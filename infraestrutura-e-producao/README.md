@@ -2,13 +2,18 @@
 
 Instalação local, servidores, cloud, CI/CD, monitorização, atualizações e recuperação.
 
-**Estado:** estrutura inicial; investigação por iniciar.
+**Estado:** síntese documental e percurso iniciais; execução pendente.
 
 ## Documentos
 
 - [Conhecimento consolidado](conhecimento.md)
 - [Fontes e referências](fontes.md)
 - [Perguntas e pendências](perguntas.md)
+
+## Estudos e formação
+
+- [INF-001 — operação e recuperação](01-operacao-e-recuperacao.md)
+- [Percurso inicial](percurso-formacao.md)
 
 ## Mapa de investigação
 

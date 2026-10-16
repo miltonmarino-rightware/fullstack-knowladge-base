@@ -63,3 +63,7 @@ Por preferência do utilizador, NotebookLM permanece opcional e adiado. A pesqui
 ## Segurança, Qualidade e progresso
 
 Em 2026-10-16 foram iniciados [SEG-001](seguranca/01-ameacas-controlos-e-evidencias.md) e [QLD-001](qualidade/01-testes-propriedades-e-limites.md), com referências públicas e exemplos não executados. [PROGRESSO](PROGRESSO.md) define uma estimativa editorial de cerca de 15% para a primeira versão útil, com âmbito e incerteza explícitos. O próximo marco inclui percursos próprios de Infraestrutura e Entrega profissional.
+
+## Infraestrutura e Entrega — primeiro marco
+
+Em 2026-10-16, criados [INF-001](infraestrutura-e-producao/01-operacao-e-recuperacao.md), [ENT-001](entrega-profissional/01-documentacao-e-handoff.md) e os percursos dos dois pilares. Fontes: Linux Foundation, Microsoft Learn, PostgreSQL, Google SRE, Diátaxis e Google Technical Writing. Nenhum sistema foi instalado/restaurado e nenhum handoff executado nesta etapa. Próxima prioridade: sínteses de Linguagens e Frontend.

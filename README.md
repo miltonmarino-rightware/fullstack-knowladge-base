@@ -6,7 +6,7 @@ Base de investigação, estudo e consulta para fundamentar as decisões de engen
 
 ## Estado inicial
 
-Estrutura criada em 2026-10-16. A investigação começou em Fundamentos, com uma síntese documental inicial e fontes consultadas. O pilar Dados também tem uma síntese documental sobre transações, com execução PostgreSQL pendente. Backend e Arquitetura têm agora sínteses iniciais sobre domínio, contratos e modularidade. Os restantes tópicos continuam como mapa ou curadoria; não representam conhecimento validado. O foco atual é capacitação e construção da base de conhecimento. Projetos antigos são contexto histórico e não delimitam o âmbito.
+Estrutura criada em 2026-10-16. A investigação começou em Fundamentos, com uma síntese documental inicial e fontes consultadas. O pilar Dados também tem uma síntese documental sobre transações, com execução PostgreSQL pendente. Backend e Arquitetura têm agora sínteses iniciais sobre domínio, contratos e modularidade. Segurança, Qualidade, Infraestrutura e Entrega também têm primeiras sínteses documentais. Linguagens e Frontend têm curadoria e unidades selecionadas; grande parte dos temas continua por aprofundar. Estes estados não representam conhecimento validado. O foco atual é capacitação e construção da base de conhecimento. Projetos antigos são contexto histórico e não delimitam o âmbito.
 
 ## Progresso
 
@@ -50,6 +50,9 @@ Prioridade atual: ampliar e avaliar materiais de formação por pilar, seleciona
 Cada pasta contém `README.md` (índice), `conhecimento.md` (documento principal), `fontes.md` (referências) e `perguntas.md` (investigação pendente). Quando o conteúdo crescer, separar assuntos em documentos temáticos e ligá-los a partir do índice. Criar subpastas para notas, comparações, laboratórios e procedimentos apenas quando houver conteúdo.
 
 ## Investigação em curso
+
+- [INF-001 — operação e recuperação](infraestrutura-e-producao/01-operacao-e-recuperacao.md)
+- [ENT-001 — documentação e handoff](entrega-profissional/01-documentacao-e-handoff.md)
 
 - [SEG-001 — ameaças e evidências](seguranca/01-ameacas-controlos-e-evidencias.md)
 - [QLD-001 — testes e propriedades](qualidade/01-testes-propriedades-e-limites.md)

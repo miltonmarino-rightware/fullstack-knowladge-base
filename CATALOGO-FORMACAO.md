@@ -287,3 +287,14 @@ O objetivo de R20 é estudar mecanismos e custos dos padrões; não implementar 
 | R27 | [Hypothesis — Introduction](https://hypothesis.readthedocs.io/en/latest/tutorial/introduction.html) | Tutorial oficial público, inglês | Python; estratégias e testes gerados | Introdução consultada; pacote não instalado nesta investigação |
 
 Sínteses: [Segurança](seguranca/01-ameacas-controlos-e-evidencias.md) e [Qualidade](qualidade/01-testes-propriedades-e-limites.md). Estes recursos não encerram a formação dos pilares. Acesso público não implica autorização de reprodução integral.
+
+## Infraestrutura e Entrega — 2026-10-16
+
+| ID | Recurso | Acesso, preparação e estado |
+| --- | --- | --- |
+| R28 | [Linux Foundation — LFS101](https://training.linuxfoundation.org/training/introduction-to-linux/) | Curso anunciado gratuito, inglês; utilizador experiente de computador, iniciante Linux; programa consultado, aulas requerem conta |
+| R29 | [Microsoft Learn — Windows Server deployment, configuration, and administration](https://learn.microsoft.com/en-us/training/paths/windows-server-deployment-configuration-administration/) | Página pública, inglês, intermédio; versões misturadas na descrição/módulos; fixar versão antes de estudar procedimentos |
+| R30 | [Diátaxis — Start here](https://diataxis.fr/start-here/) | Referência pública, inglês; introdução consultada; organizar por necessidade do leitor |
+| R31 | [Google Technical Writing](https://developers.google.com/tech-writing/overview) | Materiais públicos, inglês, sem certificado segundo a página; visão geral consultada; cursos não concluídos |
+
+Complementos: PostgreSQL 18 capítulo 25 e R12/SRE capítulo 13. Percursos em [Infraestrutura](infraestrutura-e-producao/percurso-formacao.md) e [Entrega](entrega-profissional/percurso-formacao.md). Não presumir licenças, serviços cloud ou acompanhamento gratuitos.

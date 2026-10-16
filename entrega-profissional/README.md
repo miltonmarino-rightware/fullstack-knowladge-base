@@ -2,13 +2,18 @@
 
 Estruturas de projeto, documentação, procedimentos operacionais e handoff.
 
-**Estado:** estrutura inicial; investigação por iniciar.
+**Estado:** síntese documental e percurso iniciais; execução pendente.
 
 ## Documentos
 
 - [Conhecimento consolidado](conhecimento.md)
 - [Fontes e referências](fontes.md)
 - [Perguntas e pendências](perguntas.md)
+
+## Estudos e formação
+
+- [ENT-001 — documentação e handoff](01-documentacao-e-handoff.md)
+- [Percurso inicial](percurso-formacao.md)
 
 ## Mapa de investigação
 
