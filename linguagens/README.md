@@ -2,7 +2,11 @@
 
 Funcionamento, paradigmas, execução, ferramentas e adequação a diferentes problemas.
 
-**Estado:** curadoria de formação iniciada; sínteses técnicas aprofundadas pendentes.
+**Estado:** curadoria iniciada e primeira síntese documental disponível; aprofundamento e verificação prática pendentes.
+
+## Primeiro estudo
+
+- [LNG-001 — Tipos, execução e fronteiras de confiança](01-tipos-e-execucao.md)
 
 ## Documentos
 

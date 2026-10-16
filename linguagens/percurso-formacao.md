@@ -26,3 +26,7 @@ Pergunta central: o que a verificação estática demonstra e o que exige valida
 Produzir ficha com mecanismo, exemplo, contraexemplo, fontes e limites. [Primeira aula proposta para NotebookLM](../FLUXO-NOTEBOOKLM.md). Nenhum exercício novo foi executado.
 
 Falta selecionar formação comparativa em tipos, avaliação, paradigmas, memória e runtimes. Java e TypeScript são casos de estudo, não stack obrigatória.
+
+## Estudo documental iniciado em 2026-10-16
+
+[LNG-001 — Tipos, execução e fronteiras de confiança](01-tipos-e-execucao.md): conceitos, comparação, exemplo próprio e perguntas de compreensão. Foram consultadas as secções indicadas nas fontes; não se declara conclusão do percurso, execução do exemplo ou visualização de aulas.

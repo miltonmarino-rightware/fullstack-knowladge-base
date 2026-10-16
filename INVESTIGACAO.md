@@ -67,3 +67,7 @@ Em 2026-10-16 foram iniciados [SEG-001](seguranca/01-ameacas-controlos-e-evidenc
 ## Infraestrutura e Entrega — primeiro marco
 
 Em 2026-10-16, criados [INF-001](infraestrutura-e-producao/01-operacao-e-recuperacao.md), [ENT-001](entrega-profissional/01-documentacao-e-handoff.md) e os percursos dos dois pilares. Fontes: Linux Foundation, Microsoft Learn, PostgreSQL, Google SRE, Diátaxis e Google Technical Writing. Nenhum sistema foi instalado/restaurado e nenhum handoff executado nesta etapa. Próxima prioridade: sínteses de Linguagens e Frontend.
+
+## Linguagens e Frontend — primeiro estudo
+
+Em 2026-10-16, adicionados [LNG-001](linguagens/01-tipos-e-execucao.md) e [FRT-001](frontend/01-navegador-semantica-e-interacao.md), a partir do TypeScript Handbook e MDN. Exemplos próprios e planos de verificação, ainda não executados. Próxima expansão: narrowing e tipos estruturais; formulários, DOM/eventos e estados acessíveis. NotebookLM continua opcional; não houve nova entrega do Perplexity nesta etapa.

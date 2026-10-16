@@ -28,8 +28,8 @@ Cálculo editorial: 8 + 4 + 2 + 1 + 0 = 15 pontos em 100. A existência de orien
 | Pilar | Estado real |
 | --- | --- |
 | Fundamentos | Percurso parcial, estudo FND-001 e laboratório L02 executado |
-| Linguagens | Curadoria e unidades selecionadas; sínteses aprofundadas pendentes |
-| Frontend | Curadoria e unidades selecionadas; sínteses aprofundadas pendentes |
+| Linguagens | LNG-001: primeira síntese sobre tipos e execução; exemplo não executado |
+| Frontend | FRT-001: primeira síntese sobre navegador e interação; ensaios pendentes |
 | Backend | Estudos iniciais de domínio e contratos |
 | Dados | Estudo inicial de transações; laboratório PostgreSQL pendente |
 | Arquitetura | Estudo inicial de módulos e decisões |
@@ -48,7 +48,7 @@ Cálculo editorial: 8 + 4 + 2 + 1 + 0 = 15 pontos em 100. A existência de orien
 ## Próximos marcos
 
 - Percursos iniciais de Infraestrutura e Entrega criados; aprofundar as lacunas e produzir evidência.
-- Produzir estudos de Linguagens e Frontend a partir das unidades já selecionadas.
+- Aprofundar LNG-001 e FRT-001: tipos estruturais, formulários e DOM/eventos.
 - Aprofundar os estudos existentes e verificar afirmações com experiências adequadas.
 - Demonstrar reutilização num caso delimitado, registando o commit consultado.
 
@@ -56,4 +56,4 @@ Não há previsão de prazo: depende do âmbito final e da profundidade de valid
 
 ## Registo do marco
 
-Em 2026-10-16, adicionados percursos e primeiras sínteses de Infraestrutura e Entrega profissional. A estimativa global mantém-se em cerca de 15%: ampliar a cobertura inicial não comprova domínio ou validação. Linguagens e Frontend são a próxima prioridade de síntese técnica.
+Em 2026-10-16, adicionados percursos e primeiras sínteses de Infraestrutura e Entrega profissional. A estimativa global mantém-se em cerca de 15%: ampliar a cobertura inicial não comprova domínio ou validação. Linguagens e Frontend receberam depois LNG-001 e FRT-001, com fontes e exemplos não executados. A estimativa mantém-se; a cobertura inicial dos dez pilares não significa conclusão dos seus mapas.

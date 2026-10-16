@@ -1,6 +1,6 @@
 # Frontend — perguntas e pendências
 
-**Estado:** curadoria iniciada; investigação técnica pendente.
+**Estado:** curadoria e primeira síntese documental iniciadas; investigação ampla pendente.
 
 ## Pergunta inicial
 
@@ -31,3 +31,9 @@ Marcar tarefas apenas com ligação para o documento ou evidência que demonstra
 
 - [x] Integrar e rever a seleção parcial da Parte II: [percurso](percurso-formacao.md).
 - [ ] Estudar as unidades selecionadas e preencher as lacunas do percurso.
+
+## FRT-001 — avanço delimitado
+
+- [x] Produzir primeira síntese com fontes e limites: [FRT-001 — Navegador, semântica e interação](01-navegador-semantica-e-interacao.md).
+- [ ] Executar as verificações propostas no estudo e registar versões e resultados.
+- [ ] Responder às perguntas de compreensão e submeter a revisão independente.

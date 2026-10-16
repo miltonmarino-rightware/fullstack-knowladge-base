@@ -12,3 +12,10 @@ Registar uma referência por entrada, com identificador estável, por exemplo `f
 Estados das fontes: descoberta → consultada → avaliada. Avaliar relevância, autoridade, atualidade e aplicabilidade. Uma fonte avaliada não prova, por si só, competência prática.
 
 Priorizar documentação oficial, especificações e referências primárias. Registar divergências e contexto. Identificar sínteses de IA como material a verificar; preservar a fonte original. Guardar apenas materiais com permissão de reprodução; nos restantes casos, guardar referência e síntese própria.
+
+## Fontes do estudo FRT-001
+
+| ID | Fonte e secções | Consulta e versão | Avaliação e limites |
+| --- | --- | --- | --- |
+| frontend-F003 | [MDN — How browsers work](https://developer.mozilla.org/en-US/docs/Web/Performance/Guides/How_browsers_work): Parsing, Render | 2026-10-16; documentação contínua | Guia técnico consultado; modelo conceptual, não benchmark |
+| frontend-F004 | [MDN — button](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/button): introdução e atributos | 2026-10-16; documentação contínua | Referência consultada; não substitui ensaios de acessibilidade |

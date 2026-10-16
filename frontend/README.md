@@ -2,7 +2,11 @@
 
 HTML, CSS, JavaScript, TypeScript, navegador, frameworks, acessibilidade, design e motion.
 
-**Estado:** curadoria de formação iniciada; sínteses técnicas aprofundadas pendentes.
+**Estado:** curadoria iniciada e primeira síntese documental disponível; aprofundamento e verificação prática pendentes.
+
+## Primeiro estudo
+
+- [FRT-001 — Navegador, semântica e interação](01-navegador-semantica-e-interacao.md)
 
 ## Documentos
 

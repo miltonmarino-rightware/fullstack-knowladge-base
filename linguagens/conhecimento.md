@@ -2,11 +2,11 @@
 
 **Âmbito:** Funcionamento, paradigmas, execução, ferramentas e adequação a diferentes problemas.
 
-**Estado:** por investigar.
+**Estado:** primeira síntese documental; restantes temas por investigar.
 **Atualização estrutural:** 2026-10-16.
-**Última revisão técnica:** ainda não realizada.
+**Última revisão documental parcial:** 2026-10-16; sem validação prática desta etapa.
 
-Este documento será a referência principal do pilar. O índice abaixo é uma agenda de investigação, não uma síntese validada.
+Este documento reúne o estado do pilar. Primeiro estudo: [LNG-001 — Tipos, execução e fronteiras de confiança](01-tipos-e-execucao.md). As secções seguintes continuam como agenda de aprofundamento, não como temas concluídos.
 
 ## Sistemas de tipos e paradigmas
 

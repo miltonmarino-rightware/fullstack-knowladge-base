@@ -12,3 +12,10 @@ Registar uma referência por entrada, com identificador estável, por exemplo `l
 Estados das fontes: descoberta → consultada → avaliada. Avaliar relevância, autoridade, atualidade e aplicabilidade. Uma fonte avaliada não prova, por si só, competência prática.
 
 Priorizar documentação oficial, especificações e referências primárias. Registar divergências e contexto. Identificar sínteses de IA como material a verificar; preservar a fonte original. Guardar apenas materiais com permissão de reprodução; nos restantes casos, guardar referência e síntese própria.
+
+## Fontes do estudo LNG-001
+
+| ID | Fonte e secções | Consulta e versão | Avaliação e limites |
+| --- | --- | --- | --- |
+| linguagens-F003 | [TypeScript — The Basics](https://www.typescriptlang.org/docs/handbook/2/basic-types.html): Static type-checking, Erased Types, strictNullChecks | 2026-10-16; documentação contínua | Fonte oficial consultada; mecanismos, sem ensaio de compilador |
+| linguagens-F004 | [TypeScript — Everyday Types](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html): Type Assertions | 2026-10-16; documentação contínua | Fonte oficial consultada; asserções não validam valores em execução |
