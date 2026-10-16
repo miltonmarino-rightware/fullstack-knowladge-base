@@ -40,3 +40,7 @@ Validação não é universal: registar data, ambiente, versões, resultados e l
 ## Continuidade
 
 Em trabalhos futuros, ler primeiro este contexto, o índice geral e os documentos relevantes. A base é uma referência consultável e versionada; não implica aprendizagem automática ou memória permanente de um assistente.
+
+## Prioridade clarificada em 2026-10-16
+
+A investigação deve procurar formação ampla em universidades, cursos gratuitos, livros abertos, vídeos e especialistas técnicos. Não reduzir a base a pequenas notas e laboratórios. Primeiro ampliar e avaliar o acervo de estudo, depois aprofundar unidades; usar laboratórios como verificação complementar. O [catálogo](CATALOGO-FORMACAO.md) regista a primeira seleção e as lacunas.

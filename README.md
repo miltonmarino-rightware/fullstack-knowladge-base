@@ -8,6 +8,13 @@ Base de investigação, estudo e consulta para fundamentar as decisões de engen
 
 Estrutura criada em 2026-10-16. A investigação começou em Fundamentos, com uma síntese documental inicial e fontes consultadas. O pilar Dados também tem uma síntese documental sobre transações, com execução PostgreSQL pendente. Os restantes tópicos continuam como mapa; não representam conhecimento validado. O foco atual é capacitação e construção da base de conhecimento. Projetos antigos são contexto histórico e não delimitam o âmbito.
 
+## Formação e materiais
+
+- [Catálogo de universidades, cursos, livros e vídeos](CATALOGO-FORMACAO.md)
+- [Pesquisa complementar para Perplexity](PESQUISA-PERPLEXITY-FORMACAO.md)
+
+Prioridade atual: ampliar e avaliar materiais de formação por pilar, selecionar unidades e produzir conhecimento aprofundado. Os laboratórios existentes continuam como apoio à verificação.
+
 ## Pilares
 
 | Pasta | Conteúdo |

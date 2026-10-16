@@ -11,6 +11,10 @@
 
 Esta base serve investigação, aprendizagem e decisões de engenharia full stack. Não pressupor uma stack obrigatória nem transformar projetos antigos no foco. Aplicar o método investigar → compreender → questionar → comparar → modelar → decidir → construir → testar.
 
+## Curadoria e aprendizagem abrangente
+
+Consultar CATALOGO-FORMACAO.md antes de planear uma nova etapa. Procurar cursos universitários, livros, percursos gratuitos e aulas especializadas, além de documentação técnica. Distinguir catalogado, efetivamente estudado e validado. Não substituir a formação por uma sequência interminável de pequenos laboratórios. Não afirmar ter assistido a vídeos quando só foram consultados metadados.
+
 ## Produção de conhecimento
 
 - Usar MODELO-DE-INVESTIGACAO.md e manter a navegação dos pilares.

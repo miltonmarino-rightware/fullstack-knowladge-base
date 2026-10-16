@@ -41,3 +41,7 @@ O primeiro estudo liga camadas para orientar a aprendizagem. Não esgota o pilar
 - [Transações e limites](dados/01-transacoes-e-limites.md): síntese documental iniciada com quatro referências oficiais.
 - [L03 PostgreSQL](fundamentos/laboratorios/l03-postgresql/README.md): roteiro preparado, execução bloqueada pela ausência de PostgreSQL/psql/Docker neste ambiente.
 - Nenhuma execução PostgreSQL foi simulada ou substituída por resultados SQLite.
+
+## Frente prioritária — formação abrangente
+
+A pedido do utilizador, o foco passa a incluir sistematicamente cursos universitários, livros abertos, percursos gratuitos e aulas em vídeo. [Catálogo inicial](CATALOGO-FORMACAO.md): 15 entradas, páginas/programas consultados, sem alegação de cursos concluídos. [Pesquisa Perplexity](PESQUISA-PERPLEXITY-FORMACAO.md): complementar lacunas. A indisponibilidade de um ambiente de laboratório não bloqueia esta investigação.
