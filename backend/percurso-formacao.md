@@ -20,3 +20,12 @@ Os SLOs são complemento para requisitos de fiabilidade; ver [Arquitetura](../ar
 Selecionar formação coerente em domínio e invariantes, contratos de APIs, compatibilidade, erros, paginação, idempotência, concorrência, tarefas assíncronas e integração. Full Stack Open permanece candidato já catalogado, não rejeitado pela ausência de avaliação na Parte II.
 
 A futura síntese deve ligar cada regra de negócio aos seus limites transacionais e às falhas possíveis. [Transações](../dados/01-transacoes-e-limites.md) fornece investigação anterior, sem encerrar o tema.
+
+## Expansão documental — 2026-10-16
+
+Leitura selecionada de Architecture Patterns with Python (capítulos 1, 2, 4 e 7), disponível no site dos autores. É um percurso inicial de domínio e organização do código, sem impor Python como stack. Os capítulos consultados não representam livro concluído. Complementos de APIs e documentação arquitetural constam do catálogo atualizado.
+
+- [BCK-001 — domínio e invariantes](01-dominio-e-invariantes.md)
+- [BCK-002 — contratos de APIs](02-contratos-de-api.md)
+
+Continuam abertas as lacunas de descoberta de domínio, requisitos, evolução de contratos e verificação prática.

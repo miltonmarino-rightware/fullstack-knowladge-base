@@ -2,11 +2,16 @@
 
 **Âmbito:** Regras de negócio, APIs, autenticação, autorização, concorrência e processamento assíncrono.
 
-**Estado:** por investigar.
+**Estado:** sínteses documentais iniciais disponíveis.
 **Atualização estrutural:** 2026-10-16.
-**Última revisão técnica:** ainda não realizada.
+**Última revisão documental:** 2026-10-16; exemplos novos não executados.
 
-Este documento será a referência principal do pilar. O índice abaixo é uma agenda de investigação, não uma síntese validada.
+Este documento é o índice do pilar. Estudos disponíveis:
+
+- [BCK-001 — domínio e invariantes](01-dominio-e-invariantes.md)
+- [BCK-002 — contratos de APIs](02-contratos-de-api.md)
+
+Os tópicos abaixo continuam como agenda de aprofundamento; os estudos não encerram todo o seu âmbito.
 
 ## Modelação de domínio e regras de negócio
 

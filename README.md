@@ -6,7 +6,7 @@ Base de investigação, estudo e consulta para fundamentar as decisões de engen
 
 ## Estado inicial
 
-Estrutura criada em 2026-10-16. A investigação começou em Fundamentos, com uma síntese documental inicial e fontes consultadas. O pilar Dados também tem uma síntese documental sobre transações, com execução PostgreSQL pendente. Os restantes tópicos continuam como mapa; não representam conhecimento validado. O foco atual é capacitação e construção da base de conhecimento. Projetos antigos são contexto histórico e não delimitam o âmbito.
+Estrutura criada em 2026-10-16. A investigação começou em Fundamentos, com uma síntese documental inicial e fontes consultadas. O pilar Dados também tem uma síntese documental sobre transações, com execução PostgreSQL pendente. Backend e Arquitetura têm agora sínteses iniciais sobre domínio, contratos e modularidade. Os restantes tópicos continuam como mapa ou curadoria; não representam conhecimento validado. O foco atual é capacitação e construção da base de conhecimento. Projetos antigos são contexto histórico e não delimitam o âmbito.
 
 ## Formação e materiais
 
@@ -46,6 +46,10 @@ Prioridade atual: ampliar e avaliar materiais de formação por pilar, seleciona
 Cada pasta contém `README.md` (índice), `conhecimento.md` (documento principal), `fontes.md` (referências) e `perguntas.md` (investigação pendente). Quando o conteúdo crescer, separar assuntos em documentos temáticos e ligá-los a partir do índice. Criar subpastas para notas, comparações, laboratórios e procedimentos apenas quando houver conteúdo.
 
 ## Investigação em curso
+
+- [BCK-001 — domínio e invariantes](backend/01-dominio-e-invariantes.md)
+- [BCK-002 — contratos de APIs](backend/02-contratos-de-api.md)
+- [ARQ-001 — módulos e decisões](arquitetura/01-modulos-dependencias-e-decisoes.md)
 
 - [FND-001 — do pedido web à alteração dos dados](fundamentos/01-percurso-de-um-pedido.md)
 - [Trabalho com ChatGPT e Perplexity](INVESTIGACAO.md)

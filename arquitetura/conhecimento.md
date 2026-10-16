@@ -2,11 +2,15 @@
 
 **Âmbito:** Componentes, limites, dependências, estilos arquiteturais, integração e decisões documentadas.
 
-**Estado:** por investigar.
+**Estado:** sínteses documentais iniciais disponíveis.
 **Atualização estrutural:** 2026-10-16.
-**Última revisão técnica:** ainda não realizada.
+**Última revisão documental:** 2026-10-16; exemplos novos não executados.
 
-Este documento será a referência principal do pilar. O índice abaixo é uma agenda de investigação, não uma síntese validada.
+Este documento é o índice do pilar. Estudos disponíveis:
+
+- [ARQ-001 — módulos, dependências e decisões](01-modulos-dependencias-e-decisoes.md)
+
+Os tópicos abaixo continuam como agenda de aprofundamento; os estudos não encerram todo o seu âmbito.
 
 ## Requisitos e atributos de qualidade
 

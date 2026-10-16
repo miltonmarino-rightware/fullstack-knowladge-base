@@ -53,3 +53,9 @@ Relatório revisto em 2026-10-16: [decisões, fontes reabertas e limites](REVISA
 ## Formação — Parte II e NotebookLM
 
 [Parte II revista](REVISAO-FORMACAO-PARTE-II.md) em 2026-10-16: curadoria parcial integrada em quatro pilares; Backend e Arquitetura ainda sem percurso principal completo. [NotebookLM](FLUXO-NOTEBOOKLM.md) passa a compor o método proposto para estudo de fontes selecionadas. Nenhuma sessão ou importação foi executada aqui. Resumos recebidos serão verificados antes da integração.
+
+## Continuidade — domínio, APIs e arquitetura
+
+Em 2026-10-16 foram produzidos [BCK-001](backend/01-dominio-e-invariantes.md), [BCK-002](backend/02-contratos-de-api.md) e [ARQ-001](arquitetura/01-modulos-dependencias-e-decisoes.md), com fontes primárias e exemplos próprios não executados. Foram selecionados livro aberto e referências complementares; não se declara domínio completo desses pilares.
+
+Por preferência do utilizador, NotebookLM permanece opcional e adiado. A pesquisa direta não depende de importações manuais ou de novos relatórios externos.

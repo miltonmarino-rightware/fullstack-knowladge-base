@@ -1,6 +1,6 @@
 # Backend — perguntas e pendências
 
-**Estado:** curadoria iniciada; investigação técnica pendente.
+**Estado:** investigação documental iniciada; verificação prática pendente.
 
 ## Pergunta inicial
 
@@ -30,3 +30,12 @@ Marcar tarefas apenas com ligação para o documento ou evidência que demonstra
 
 - [x] Integrar e rever a seleção parcial da Parte II: [percurso](percurso-formacao.md).
 - [ ] Estudar as unidades selecionadas e preencher as lacunas do percurso.
+
+## Avanço documental — 2026-10-16
+
+- [BCK-001 — domínio e invariantes](01-dominio-e-invariantes.md)
+- [BCK-002 — contratos de APIs](02-contratos-de-api.md)
+
+- [x] Produzir as sínteses iniciais ligadas acima.
+- [ ] Confrontar as propostas com um segundo percurso de formação e aprofundar os limites.
+- [ ] Executar os exercícios propostos quando forem necessários para verificar afirmações concretas.

@@ -2,13 +2,17 @@
 
 Componentes, limites, dependências, estilos arquiteturais, integração e decisões documentadas.
 
-**Estado:** curadoria de formação iniciada; sínteses técnicas aprofundadas pendentes.
+**Estado:** primeiras sínteses documentais disponíveis; aprofundamento e verificação prática pendentes.
 
 ## Documentos
 
 - [Conhecimento consolidado](conhecimento.md)
 - [Fontes e referências](fontes.md)
 - [Perguntas e pendências](perguntas.md)
+
+## Estudos
+
+- [ARQ-001 — módulos, dependências e decisões](01-modulos-dependencias-e-decisoes.md)
 
 ## Formação
 

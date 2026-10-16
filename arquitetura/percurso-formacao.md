@@ -22,3 +22,11 @@ MIT 6.5840 permanece aprofundamento após sistemas, redes e concorrência. A Par
 Procurar curso/livro de arquitetura de software e fontes originais para requisitos, modularidade, diagramas e registo de decisões. Uma nota futura deverá relacionar requisito, alternativas, decisão, consequências e condição de revisão.
 
 SRE e OWASP ficam como complementos transversais. Esta curadoria não constitui formação completa em arquitetura.
+
+## Expansão documental — 2026-10-16
+
+Leitura selecionada de Architecture Patterns with Python (capítulos 1, 2, 4 e 7), disponível no site dos autores. É um percurso inicial de domínio e organização do código, sem impor Python como stack. Os capítulos consultados não representam livro concluído. Complementos de APIs e documentação arquitetural constam do catálogo atualizado.
+
+- [ARQ-001 — módulos, dependências e decisões](01-modulos-dependencias-e-decisoes.md)
+
+Continuam abertas as lacunas de descoberta de domínio, requisitos, evolução de contratos e verificação prática.

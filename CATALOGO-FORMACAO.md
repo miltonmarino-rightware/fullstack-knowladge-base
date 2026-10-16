@@ -264,3 +264,15 @@ R08 recebe uma unidade concreta: [Animation and motion](https://web.dev/learn/ac
 R12 recebe o capítulo [Service Level Objectives](https://sre.google/sre-book/service-level-objectives/) como complemento de requisitos, não substituto de arquitetura modular.
 
 CS61B não substitui formação comparativa em linguagens. Nenhum recurso anterior foi rejeitado por não ter sido reavaliado no relatório externo.
+
+## Expansão — domínio, APIs e modularidade (2026-10-16)
+
+| ID | Recurso | Acesso e formato | Preparação e sequência proposta | Verificação e limite |
+| --- | --- | --- | --- | --- |
+| R20 | [Architecture Patterns with Python — Percival e Gregory](https://www.cosmicpython.com/book/chapter_01_domain_model) | Livro online público, inglês | Programação e testes; cap. 1 → 2 → 4; cap. 7 após transações | Secções selecionadas consultadas; Python didático; não é formação completa em DDD |
+| R21 | [Microsoft — Web API Design](https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design) | Guia público, inglês | HTTP; recursos e limites antes de versionamento | Secção de recursos consultada; recomendações no contexto do guia |
+| R22 | [C4 — Simon Brown](https://c4model.com/diagrams) | Documentação pública, inglês | Estrutura de aplicações; níveis e público do diagrama | Página de diagramas consultada; workshops não presumidos gratuitos |
+| R23 | [ADRs — Michael Nygard](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions) | Artigo público, inglês, 2011 | Decisões arquiteturais; contexto → decisão → consequências | Texto consultado; não substitui curso de arquitetura |
+
+Referências normativas complementares: RFC 9110 e RFC 9457, registadas no pilar Backend.
+O objetivo de R20 é estudar mecanismos e custos dos padrões; não implementar todos por antecipação.

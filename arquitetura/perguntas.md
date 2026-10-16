@@ -1,6 +1,6 @@
 # Arquitetura — perguntas e pendências
 
-**Estado:** curadoria iniciada; investigação técnica pendente.
+**Estado:** investigação documental iniciada; verificação prática pendente.
 
 ## Pergunta inicial
 
@@ -30,3 +30,11 @@ Marcar tarefas apenas com ligação para o documento ou evidência que demonstra
 
 - [x] Integrar e rever a seleção parcial da Parte II: [percurso](percurso-formacao.md).
 - [ ] Estudar as unidades selecionadas e preencher as lacunas do percurso.
+
+## Avanço documental — 2026-10-16
+
+- [ARQ-001 — módulos, dependências e decisões](01-modulos-dependencias-e-decisoes.md)
+
+- [x] Produzir as sínteses iniciais ligadas acima.
+- [ ] Confrontar as propostas com um segundo percurso de formação e aprofundar os limites.
+- [ ] Executar os exercícios propostos quando forem necessários para verificar afirmações concretas.
