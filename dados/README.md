@@ -4,6 +4,10 @@ Modelação, SQL, diferentes tipos de bases de dados, transações, desempenho e
 
 **Estado:** investigação documental iniciada; laboratório PostgreSQL pendente.
 
+## Formação
+
+- [Percurso de formação e unidades selecionadas](percurso-formacao.md)
+
 ## Documentos
 
 - [Conhecimento consolidado](conhecimento.md)

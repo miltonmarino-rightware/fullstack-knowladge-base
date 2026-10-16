@@ -34,3 +34,9 @@ Primeira resposta documental: [FND-001](01-percurso-de-um-pedido.md). A pergunta
 - [ ] Rever a síntese antes de promover procedimentos a padrão da RIGHTWARE.
 
 Marcar tarefas apenas com ligação para o documento ou evidência que demonstra a conclusão.
+
+## Formação abrangente
+
+- [x] Integrar seleção de unidades da Parte I no [percurso de formação](percurso-formacao.md).
+- [ ] Estudar as unidades selecionadas e registar sínteses próprias com fontes.
+- [ ] Preencher as lacunas curriculares identificadas no percurso.

@@ -4,6 +4,10 @@ Computação, lógica, estruturas de dados, sistemas operativos e redes.
 
 **Estado:** investigação iniciada; primeira síntese documental disponível.
 
+## Formação
+
+- [Percurso de formação e unidades selecionadas](percurso-formacao.md)
+
 ## Documentos
 
 - [Conhecimento consolidado](conhecimento.md)

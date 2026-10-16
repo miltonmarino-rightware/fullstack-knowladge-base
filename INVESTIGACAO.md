@@ -45,3 +45,7 @@ O primeiro estudo liga camadas para orientar a aprendizagem. Não esgota o pilar
 ## Frente prioritária — formação abrangente
 
 A pedido do utilizador, o foco passa a incluir sistematicamente cursos universitários, livros abertos, percursos gratuitos e aulas em vídeo. [Catálogo inicial](CATALOGO-FORMACAO.md): 15 entradas, páginas/programas consultados, sem alegação de cursos concluídos. [Pesquisa Perplexity](PESQUISA-PERPLEXITY-FORMACAO.md): complementar lacunas. A indisponibilidade de um ambiente de laboratório não bloqueia esta investigação.
+
+## Formação — relatório Parte I recebido
+
+Relatório revisto em 2026-10-16: [decisões, fontes reabertas e limites](REVISAO-FORMACAO-PARTE-I.md). Integrados percursos de Fundamentos e Dados, sem alterar estados de execução anteriores. Próxima pesquisa externa: [Parte II — Linguagens, Frontend, Backend e Arquitetura](PESQUISA-PERPLEXITY-PARTE-II.md). Perplexity entrega relatórios; a verificação e integração no GitHub são feitas neste fluxo.

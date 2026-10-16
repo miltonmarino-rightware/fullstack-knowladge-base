@@ -242,3 +242,9 @@ Test Automation University foi localizado, mas a página devolveu conteúdo insu
 Guardar referências, seleção de capítulos/aulas, sínteses próprias, comparações e perguntas. Os capítulos gratuitos de OSTEP devem ser ligados no site dos autores, conforme a orientação publicada. Não espelhar cursos ou vídeos indiscriminadamente.
 
 Um recurso catalogado só passa a estudado após leitura ou análise efetiva. Um conteúdo estudado só passa a validado quando a evidência adequada existir. A quantidade de links não mede aprendizagem.
+
+## Revisão da Parte I — 2026-10-16
+
+[Revisão documental](REVISAO-FORMACAO-PARTE-I.md) integrada, preservando as verificações anteriores. Percursos concretos em [Fundamentos](fundamentos/percurso-formacao.md) e [Dados](dados/percurso-formacao.md); estudo das unidades ainda pendente.
+
+R01: a [página oficial do certificado CS50](https://cs50.harvard.edu/x/certificate/) confirma certificado gratuito condicionado a pelo menos 70% em cada conjunto de problemas e no projeto final. Não é o mesmo que o certificado verificado edX.

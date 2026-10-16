@@ -11,6 +11,8 @@ Estrutura criada em 2026-10-16. A investigação começou em Fundamentos, com um
 ## Formação e materiais
 
 - [Catálogo de universidades, cursos, livros e vídeos](CATALOGO-FORMACAO.md)
+- [Revisão e integração do relatório — Parte I](REVISAO-FORMACAO-PARTE-I.md)
+- [Prompt autónomo para Perplexity — Parte II](PESQUISA-PERPLEXITY-PARTE-II.md)
 - [Pesquisa complementar para Perplexity](PESQUISA-PERPLEXITY-FORMACAO.md)
 
 Prioridade atual: ampliar e avaliar materiais de formação por pilar, selecionar unidades e produzir conhecimento aprofundado. Os laboratórios existentes continuam como apoio à verificação.
