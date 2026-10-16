@@ -6,7 +6,7 @@ Base de investigação, estudo e consulta para fundamentar as decisões de engen
 
 ## Estado inicial
 
-Estrutura criada em 2026-10-16. Os tópicos são um mapa de investigação; ainda não representam conhecimento investigado ou validado. O foco atual é capacitação e construção da base de conhecimento. Projetos antigos são contexto histórico e não delimitam o âmbito.
+Estrutura criada em 2026-10-16. A investigação começou em Fundamentos, com uma síntese documental inicial e fontes consultadas. Os restantes tópicos continuam como mapa; não representam conhecimento validado. O foco atual é capacitação e construção da base de conhecimento. Projetos antigos são contexto histórico e não delimitam o âmbito.
 
 ## Pilares
 
@@ -33,6 +33,13 @@ Estrutura criada em 2026-10-16. Os tópicos são um mapa de investigação; aind
 6. Atualizar o estado e guardar a alteração num commit descritivo.
 
 Cada pasta contém `README.md` (índice), `conhecimento.md` (documento principal), `fontes.md` (referências) e `perguntas.md` (investigação pendente). Quando o conteúdo crescer, separar assuntos em documentos temáticos e ligá-los a partir do índice. Criar subpastas para notas, comparações, laboratórios e procedimentos apenas quando houver conteúdo.
+
+## Investigação em curso
+
+- [FND-001 — do pedido web à alteração dos dados](fundamentos/01-percurso-de-um-pedido.md)
+- [Trabalho com ChatGPT e Perplexity](INVESTIGACAO.md)
+- [Tarefa pronta para o Perplexity](fundamentos/pesquisa-perplexity-001.md)
+- [Orientações para agentes](AGENTS.md)
 
 ## Orientações comuns
 

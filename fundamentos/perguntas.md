@@ -1,10 +1,16 @@
 # Fundamentos — perguntas e pendências
 
-**Estado:** investigação por iniciar.
+**Estado:** investigação iniciada; síntese introdutória em FND-001.
 
 ## Pergunta inicial
 
 - [ ] Como um pedido percorre o navegador, a rede, o processo e o armazenamento?
+
+Primeira resposta documental: [FND-001](01-percurso-de-um-pedido.md). A pergunta mantém-se aberta até aprofundamento e verificação prática.
+
+- [ ] Receber e verificar a revisão do Perplexity.
+- [ ] Executar o exercício de observação proposto.
+- [ ] Investigar perda de resposta após confirmação e limitações de retries.
 
 ## Trabalho de investigação
 

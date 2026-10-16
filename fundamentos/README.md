@@ -2,13 +2,18 @@
 
 Computação, lógica, estruturas de dados, sistemas operativos e redes.
 
-**Estado:** estrutura inicial; investigação por iniciar.
+**Estado:** investigação iniciada; primeira síntese documental disponível.
 
 ## Documentos
 
 - [Conhecimento consolidado](conhecimento.md)
 - [Fontes e referências](fontes.md)
 - [Perguntas e pendências](perguntas.md)
+
+## Estudos disponíveis
+
+- [FND-001 — do pedido web à alteração dos dados](01-percurso-de-um-pedido.md)
+- [Revisão a executar no Perplexity](pesquisa-perplexity-001.md)
 
 ## Mapa de investigação
 

@@ -2,11 +2,11 @@
 
 **Âmbito:** Computação, lógica, estruturas de dados, sistemas operativos e redes.
 
-**Estado:** por investigar.
+**Estado:** em investigação; síntese introdutória disponível.
 **Atualização estrutural:** 2026-10-16.
-**Última revisão técnica:** ainda não realizada.
+**Última revisão documental:** 2026-10-16; validação experimental pendente.
 
-Este documento será a referência principal do pilar. O índice abaixo é uma agenda de investigação, não uma síntese validada.
+Este documento é o ponto de entrada do pilar. A primeira síntese está em [FND-001 — do pedido web à alteração dos dados](01-percurso-de-um-pedido.md). O restante índice continua como agenda de investigação; não representa domínio validado.
 
 ## Computação: CPU, memória e entrada/saída
 
