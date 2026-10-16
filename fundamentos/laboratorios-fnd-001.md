@@ -1,10 +1,10 @@
 # FND-001 — laboratórios propostos
 
-**Estado de todos os laboratórios:** não executados.
+**Estado:** L02 executado e validado no contexto local; L01 e L03 continuam não executados.
 **Origem:** experiências sugeridas no PDF complementar, delimitadas na revisão da RIGHTWARE.
 **Objetivo:** produzir evidências pequenas e reproduzíveis, sem construir um produto.
 
-Antes de executar, registar sistema operativo, versões, configuração, data e comandos efetivos. Usar apenas dados fictícios e ambiente próprio. Os resultados abaixo são expectativas, não observações.
+Antes de executar, registar sistema operativo, versões, configuração, data e comandos efetivos. Usar apenas dados fictícios e ambiente próprio. Os resultados esperados abaixo descrevem os cenários; as observações reais de L02 estão no relatório ligado.
 
 ## L01 — separar cache HTTP e reutilização de ligação
 
@@ -21,6 +21,8 @@ Esperado: conseguir distinguir evidência de cache de evidência de ligação. N
 Limites: não demonstra consultas DNS, transações nem ausência de intermediários.
 
 ## L02 — timeout depois de uma gravação
+
+**Executado:** [código, reprodução e evidências](laboratorios/l02-timeout/README.md). Implementação local com SQLite; não substitui o cenário PostgreSQL L03.
 
 Pré-requisitos: servidor HTTP local instrumentado, cliente com timeout configurável e armazenamento de teste consultável.
 

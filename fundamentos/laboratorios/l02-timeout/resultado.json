@@ -1,0 +1,97 @@
+{
+  "lab": "FND-001-L02",
+  "executed_at_utc": "2026-10-16T06:51:36.664310+00:00",
+  "environment": {
+    "python": "3.12.14",
+    "system": "Linux",
+    "release": "6.18.44",
+    "sqlite": "3.53.1"
+  },
+  "script_sha256": "72bbab3f8e6788f2cc882d90e35b12feaab4fa077013b514db458b116c9cd1e1",
+  "scope": "loopback HTTP/1.1 + SQLite; no crash, proxy, TLS or retry",
+  "cases": [
+    {
+      "operation_id": "control-fast",
+      "response_delay_seconds": 0,
+      "client_timeout_seconds": 2,
+      "client_outcome": "response_received",
+      "matching_rows": 1,
+      "passed": true,
+      "events": [
+        {
+          "event": "client_send",
+          "elapsed_ms": 1.691
+        },
+        {
+          "event": "server_received",
+          "elapsed_ms": 2.669,
+          "operation_id": "control-fast"
+        },
+        {
+          "event": "database_commit_returned",
+          "elapsed_ms": 2.946
+        },
+        {
+          "event": "server_response_attempt",
+          "elapsed_ms": 3.062
+        },
+        {
+          "event": "server_write_returned",
+          "elapsed_ms": 3.158
+        },
+        {
+          "event": "client_response_received",
+          "elapsed_ms": 3.403,
+          "status": 201
+        },
+        {
+          "event": "independent_database_read",
+          "elapsed_ms": 3.783,
+          "matching_rows": 1
+        }
+      ]
+    },
+    {
+      "operation_id": "delayed-response",
+      "response_delay_seconds": 1,
+      "client_timeout_seconds": 0.2,
+      "client_outcome": "timeout",
+      "matching_rows": 1,
+      "passed": true,
+      "events": [
+        {
+          "event": "client_send",
+          "elapsed_ms": 0.603
+        },
+        {
+          "event": "server_received",
+          "elapsed_ms": 1.249,
+          "operation_id": "delayed-response"
+        },
+        {
+          "event": "database_commit_returned",
+          "elapsed_ms": 1.609
+        },
+        {
+          "event": "client_timeout",
+          "elapsed_ms": 201.647
+        },
+        {
+          "event": "independent_database_read",
+          "elapsed_ms": 202.086,
+          "matching_rows": 1
+        },
+        {
+          "event": "server_response_attempt",
+          "elapsed_ms": 1001.777
+        },
+        {
+          "event": "server_write_error",
+          "elapsed_ms": 1001.992,
+          "error_type": "BrokenPipeError"
+        }
+      ]
+    }
+  ],
+  "passed": true
+}

@@ -1,6 +1,6 @@
 # FND-001 — do pedido web à alteração dos dados
 
-**Estado:** síntese documental revista após relatório complementar; laboratórios pendentes.
+**Estado:** síntese documental revista; L02 validado em ambiente local, L01 e L03 pendentes.
 **Data:** 2026-10-16.
 **Âmbito:** modelo introdutório de uma aplicação web. Não cobre toda a computação nem define uma arquitetura de produção.
 **Pré-requisitos:** reconhecer ficheiro, programa, navegador e endereço web.
@@ -103,6 +103,6 @@ Ainda investigar:
 - Threads, concorrência e modelos de execução.
 - O que constitui uma confirmação durável na configuração escolhida.
 - Isolamento, duplicação, idempotência e efeitos externos.
-- Um laboratório que provoque perda de resposta após gravação.
+- Expandir a validação de falhas para outros ambientes: o [L02 local](laboratorios/l02-timeout/README.md) já demonstrou timeout depois de gravação.
 
-O [relatório de integração](revisao-fnd-001.md) regista as decisões sobre o PDF recebido. O relatório externo não teve acesso ao texto original; o confronto com o estudo foi feito nesta revisão. Os [três laboratórios propostos](laboratorios-fnd-001.md) continuam por executar. Nenhuma conclusão aqui comprova domínio prático da equipa.
+O [relatório de integração](revisao-fnd-001.md) regista as decisões sobre o PDF recebido. O relatório externo não teve acesso ao texto original; o confronto com o estudo foi feito nesta revisão. Dos [três laboratórios](laboratorios-fnd-001.md), L02 foi executado com código e evidências; L01 e L03 continuam pendentes. Nenhuma conclusão aqui comprova domínio prático da equipa.

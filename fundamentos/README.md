@@ -16,7 +16,8 @@ Computação, lógica, estruturas de dados, sistemas operativos e redes.
 - [Tarefa original para Perplexity](pesquisa-perplexity-001.md)
 
 - [Revisão do relatório recebido](revisao-fnd-001.md)
-- [Laboratórios propostos](laboratorios-fnd-001.md)
+- [Laboratórios e estado de execução](laboratorios-fnd-001.md)
+- [L02 executado: timeout depois de gravação](laboratorios/l02-timeout/README.md)
 
 ## Mapa de investigação
 

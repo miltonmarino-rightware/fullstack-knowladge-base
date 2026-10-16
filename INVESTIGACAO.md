@@ -29,7 +29,7 @@ Concordância entre duas IAs não equivale a confirmação independente: ambas p
 - [Primeiro estudo](fundamentos/01-percurso-de-um-pedido.md).
 - [Registo de fontes](fundamentos/fontes.md).
 - [Tarefa para Perplexity](fundamentos/pesquisa-perplexity-001.md).
-- Estado: síntese revista com relatório complementar; laboratórios e revisão externa linha a linha pendentes.
+- Estado: síntese revista; [L02 validado localmente](fundamentos/laboratorios/l02-timeout/README.md). L01, L03 e revisão externa linha a linha pendentes.
 - Pesquisa neste ambiente: realizada em fontes indicadas no registo.
 - Relatório complementar: recebido em PDF; o documento declara não ter acedido ao estudo. Contribuições verificadas e integradas conforme [registo de revisão](fundamentos/revisao-fnd-001.md).
 - Próxima expansão: DNS e caches; memória e processos; depois concorrência e transações, mantendo as ligações aos pilares próprios.

@@ -10,9 +10,11 @@ Primeira resposta documental: [FND-001](01-percurso-de-um-pedido.md). A pergunta
 
 - [x] Receber o relatório complementar e verificar as contribuições integradas: [decisões e limites](revisao-fnd-001.md).
 - [ ] Obter revisão externa linha a linha com acesso ao texto original.
-- [ ] Executar e documentar os [três laboratórios](laboratorios-fnd-001.md).
+- [x] Executar L02: [timeout após gravação, código e evidências](laboratorios/l02-timeout/README.md).
+- [ ] Executar L01 e L03 dos [laboratórios](laboratorios-fnd-001.md).
 - [ ] Executar o exercício de observação proposto.
-- [ ] Investigar perda de resposta após confirmação e limitações de retries.
+- [x] Demonstrar timeout após confirmação local: [L02](laboratorios/l02-timeout/README.md).
+- [ ] Investigar contratos de consulta de estado, retries e deduplicação.
 
 ## Trabalho de investigação
 
