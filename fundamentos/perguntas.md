@@ -8,7 +8,9 @@
 
 Primeira resposta documental: [FND-001](01-percurso-de-um-pedido.md). A pergunta mantém-se aberta até aprofundamento e verificação prática.
 
-- [ ] Receber e verificar a revisão do Perplexity.
+- [x] Receber o relatório complementar e verificar as contribuições integradas: [decisões e limites](revisao-fnd-001.md).
+- [ ] Obter revisão externa linha a linha com acesso ao texto original.
+- [ ] Executar e documentar os [três laboratórios](laboratorios-fnd-001.md).
 - [ ] Executar o exercício de observação proposto.
 - [ ] Investigar perda de resposta após confirmação e limitações de retries.
 

@@ -1,6 +1,6 @@
 # FND-001 — tarefa de pesquisa para Perplexity
 
-**Estado:** pronta para executar; resultado ainda não recebido.
+**Estado:** relatório complementar recebido em 2026-10-16; contribuições integradas. O relatório não acedeu ao estudo original; revisão externa linha a linha continua pendente. Ver [decisões](revisao-fnd-001.md).
 **Destino da revisão:** [estudo inicial](01-percurso-de-um-pedido.md).
 **Data:** 2026-10-16.
 

@@ -13,7 +13,10 @@ Computação, lógica, estruturas de dados, sistemas operativos e redes.
 ## Estudos disponíveis
 
 - [FND-001 — do pedido web à alteração dos dados](01-percurso-de-um-pedido.md)
-- [Revisão a executar no Perplexity](pesquisa-perplexity-001.md)
+- [Tarefa original para Perplexity](pesquisa-perplexity-001.md)
+
+- [Revisão do relatório recebido](revisao-fnd-001.md)
+- [Laboratórios propostos](laboratorios-fnd-001.md)
 
 ## Mapa de investigação
 

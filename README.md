@@ -38,7 +38,8 @@ Cada pasta contém `README.md` (índice), `conhecimento.md` (documento principal
 
 - [FND-001 — do pedido web à alteração dos dados](fundamentos/01-percurso-de-um-pedido.md)
 - [Trabalho com ChatGPT e Perplexity](INVESTIGACAO.md)
-- [Tarefa pronta para o Perplexity](fundamentos/pesquisa-perplexity-001.md)
+- [Tarefa de pesquisa para o Perplexity](fundamentos/pesquisa-perplexity-001.md)
+- [Revisão do relatório complementar](fundamentos/revisao-fnd-001.md)
 - [Orientações para agentes](AGENTS.md)
 
 ## Orientações comuns

@@ -29,9 +29,9 @@ Concordância entre duas IAs não equivale a confirmação independente: ambas p
 - [Primeiro estudo](fundamentos/01-percurso-de-um-pedido.md).
 - [Registo de fontes](fundamentos/fontes.md).
 - [Tarefa para Perplexity](fundamentos/pesquisa-perplexity-001.md).
-- Estado: síntese documental inicial; revisão externa e laboratório pendentes.
+- Estado: síntese revista com relatório complementar; laboratórios e revisão externa linha a linha pendentes.
 - Pesquisa neste ambiente: realizada em fontes indicadas no registo.
-- Perplexity: tarefa preparada; nenhuma execução ou resposta recebida nesta entrega.
+- Relatório complementar: recebido em PDF; o documento declara não ter acedido ao estudo. Contribuições verificadas e integradas conforme [registo de revisão](fundamentos/revisao-fnd-001.md).
 - Próxima expansão: DNS e caches; memória e processos; depois concorrência e transações, mantendo as ligações aos pilares próprios.
 
 O primeiro estudo liga camadas para orientar a aprendizagem. Não esgota o pilar Fundamentos nem determina a escolha de linguagens.
