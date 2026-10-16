@@ -1,6 +1,6 @@
 # Qualidade — perguntas e pendências
 
-**Estado:** investigação por iniciar.
+**Estado:** investigação documental iniciada.
 
 ## Pergunta inicial
 
@@ -25,3 +25,8 @@
 - [ ] Rever a síntese antes de promover procedimentos a padrão da RIGHTWARE.
 
 Marcar tarefas apenas com ligação para o documento ou evidência que demonstra a conclusão.
+
+## Avanço documental
+
+- [x] Produzir primeira síntese: [QLD-001 — testes, propriedades e limites](01-testes-propriedades-e-limites.md).
+- [ ] Aprofundar as fontes e executar as verificações justificadas pelo risco.

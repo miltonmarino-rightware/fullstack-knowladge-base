@@ -2,13 +2,17 @@
 
 Ameaças, desenvolvimento seguro, proteção de infraestrutura e verificação de controlos.
 
-**Estado:** estrutura inicial; investigação por iniciar.
+**Estado:** síntese documental inicial disponível; verificação prática pendente.
 
 ## Documentos
 
 - [Conhecimento consolidado](conhecimento.md)
 - [Fontes e referências](fontes.md)
 - [Perguntas e pendências](perguntas.md)
+
+## Estudos
+
+- [SEG-001 — ameaças, controlos e evidências](01-ameacas-controlos-e-evidencias.md)
 
 ## Mapa de investigação
 

@@ -8,6 +8,10 @@ Base de investigação, estudo e consulta para fundamentar as decisões de engen
 
 Estrutura criada em 2026-10-16. A investigação começou em Fundamentos, com uma síntese documental inicial e fontes consultadas. O pilar Dados também tem uma síntese documental sobre transações, com execução PostgreSQL pendente. Backend e Arquitetura têm agora sínteses iniciais sobre domínio, contratos e modularidade. Os restantes tópicos continuam como mapa ou curadoria; não representam conhecimento validado. O foco atual é capacitação e construção da base de conhecimento. Projetos antigos são contexto histórico e não delimitam o âmbito.
 
+## Progresso
+
+[Estimativa e critérios da V1](PROGRESSO.md): cerca de 15%, avaliação provisória de planeamento, não medição de domínio técnico.
+
 ## Formação e materiais
 
 - [Catálogo de universidades, cursos, livros e vídeos](CATALOGO-FORMACAO.md)
@@ -46,6 +50,9 @@ Prioridade atual: ampliar e avaliar materiais de formação por pilar, seleciona
 Cada pasta contém `README.md` (índice), `conhecimento.md` (documento principal), `fontes.md` (referências) e `perguntas.md` (investigação pendente). Quando o conteúdo crescer, separar assuntos em documentos temáticos e ligá-los a partir do índice. Criar subpastas para notas, comparações, laboratórios e procedimentos apenas quando houver conteúdo.
 
 ## Investigação em curso
+
+- [SEG-001 — ameaças e evidências](seguranca/01-ameacas-controlos-e-evidencias.md)
+- [QLD-001 — testes e propriedades](qualidade/01-testes-propriedades-e-limites.md)
 
 - [BCK-001 — domínio e invariantes](backend/01-dominio-e-invariantes.md)
 - [BCK-002 — contratos de APIs](backend/02-contratos-de-api.md)

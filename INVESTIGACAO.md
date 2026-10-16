@@ -59,3 +59,7 @@ Relatório revisto em 2026-10-16: [decisões, fontes reabertas e limites](REVISA
 Em 2026-10-16 foram produzidos [BCK-001](backend/01-dominio-e-invariantes.md), [BCK-002](backend/02-contratos-de-api.md) e [ARQ-001](arquitetura/01-modulos-dependencias-e-decisoes.md), com fontes primárias e exemplos próprios não executados. Foram selecionados livro aberto e referências complementares; não se declara domínio completo desses pilares.
 
 Por preferência do utilizador, NotebookLM permanece opcional e adiado. A pesquisa direta não depende de importações manuais ou de novos relatórios externos.
+
+## Segurança, Qualidade e progresso
+
+Em 2026-10-16 foram iniciados [SEG-001](seguranca/01-ameacas-controlos-e-evidencias.md) e [QLD-001](qualidade/01-testes-propriedades-e-limites.md), com referências públicas e exemplos não executados. [PROGRESSO](PROGRESSO.md) define uma estimativa editorial de cerca de 15% para a primeira versão útil, com âmbito e incerteza explícitos. O próximo marco inclui percursos próprios de Infraestrutura e Entrega profissional.

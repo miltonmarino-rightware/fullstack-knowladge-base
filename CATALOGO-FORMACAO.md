@@ -276,3 +276,14 @@ CS61B não substitui formação comparativa em linguagens. Nenhum recurso anteri
 
 Referências normativas complementares: RFC 9110 e RFC 9457, registadas no pilar Backend.
 O objetivo de R20 é estudar mecanismos e custos dos padrões; não implementar todos por antecipação.
+
+## Segurança e Qualidade — 2026-10-16
+
+| ID | Recurso | Formato/acesso | Preparação e uso | Estado |
+| --- | --- | --- | --- | --- |
+| R24 | [OWASP — Threat Modeling](https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html) | Referência pública, inglês | Fluxos e dados; ligar ameaça, controlo e evidência | Overview/System Modeling consultados |
+| R25 | [The Fuzzing Book — Introduction to Software Testing](https://www.fuzzingbook.org/html/Intro_Testing.html) | Livro online e exercícios, inglês | Python básico; introdução antes de geração avançada | Secções introdutórias consultadas; execução pendente |
+| R26 | [University of Toronto — CSC148 §2.4](https://www.teach.cs.toronto.edu/~csc148h/notes/testing/hypothesis.html) | Notas universitárias públicas, inglês | Funções e testes; propriedades | Introdução consultada; não implica matrícula ou avaliação |
+| R27 | [Hypothesis — Introduction](https://hypothesis.readthedocs.io/en/latest/tutorial/introduction.html) | Tutorial oficial público, inglês | Python; estratégias e testes gerados | Introdução consultada; pacote não instalado nesta investigação |
+
+Sínteses: [Segurança](seguranca/01-ameacas-controlos-e-evidencias.md) e [Qualidade](qualidade/01-testes-propriedades-e-limites.md). Estes recursos não encerram a formação dos pilares. Acesso público não implica autorização de reprodução integral.

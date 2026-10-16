@@ -2,13 +2,17 @@
 
 Testes, depuração, revisão de código e validação de requisitos.
 
-**Estado:** estrutura inicial; investigação por iniciar.
+**Estado:** síntese documental inicial disponível; verificação prática pendente.
 
 ## Documentos
 
 - [Conhecimento consolidado](conhecimento.md)
 - [Fontes e referências](fontes.md)
 - [Perguntas e pendências](perguntas.md)
+
+## Estudos
+
+- [QLD-001 — testes, propriedades e limites](01-testes-propriedades-e-limites.md)
 
 ## Mapa de investigação
 

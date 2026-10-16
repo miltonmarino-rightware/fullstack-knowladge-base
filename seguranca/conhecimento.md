@@ -2,9 +2,9 @@
 
 **Âmbito:** Ameaças, desenvolvimento seguro, proteção de infraestrutura e verificação de controlos.
 
-**Estado:** por investigar.
+**Estado:** investigação documental iniciada.
 **Atualização estrutural:** 2026-10-16.
-**Última revisão técnica:** ainda não realizada.
+**Última revisão documental:** 2026-10-16; sem validação prática.
 
 Este documento será a referência principal do pilar. O índice abaixo é uma agenda de investigação, não uma síntese validada.
 
@@ -37,3 +37,7 @@ Pendente: investigar os conceitos e mecanismos, explicar exemplos, questionar li
 Cada tema deverá explicar o que é, como funciona, que problema resolve, quando usar ou evitar, alternativas, riscos e formas de verificação. Distinguir afirmações verificadas, hipóteses e dúvidas. Exemplos não executados devem ser identificados como tal.
 
 Consultar [fontes](fontes.md) e [perguntas](perguntas.md).
+
+## Primeiro estudo
+
+[SEG-001 — ameaças, controlos e evidências](01-ameacas-controlos-e-evidencias.md). O mapa acima continua aberto; esta nota não cobre todo o pilar.
