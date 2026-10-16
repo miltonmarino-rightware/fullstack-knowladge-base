@@ -49,3 +49,7 @@ A pedido do utilizador, o foco passa a incluir sistematicamente cursos universit
 ## Formação — relatório Parte I recebido
 
 Relatório revisto em 2026-10-16: [decisões, fontes reabertas e limites](REVISAO-FORMACAO-PARTE-I.md). Integrados percursos de Fundamentos e Dados, sem alterar estados de execução anteriores. Próxima pesquisa externa: [Parte II — Linguagens, Frontend, Backend e Arquitetura](PESQUISA-PERPLEXITY-PARTE-II.md). Perplexity entrega relatórios; a verificação e integração no GitHub são feitas neste fluxo.
+
+## Formação — Parte II e NotebookLM
+
+[Parte II revista](REVISAO-FORMACAO-PARTE-II.md) em 2026-10-16: curadoria parcial integrada em quatro pilares; Backend e Arquitetura ainda sem percurso principal completo. [NotebookLM](FLUXO-NOTEBOOKLM.md) passa a compor o método proposto para estudo de fontes selecionadas. Nenhuma sessão ou importação foi executada aqui. Resumos recebidos serão verificados antes da integração.

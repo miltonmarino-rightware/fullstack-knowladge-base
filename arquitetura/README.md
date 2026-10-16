@@ -2,13 +2,17 @@
 
 Componentes, limites, dependências, estilos arquiteturais, integração e decisões documentadas.
 
-**Estado:** estrutura inicial; investigação por iniciar.
+**Estado:** curadoria de formação iniciada; sínteses técnicas aprofundadas pendentes.
 
 ## Documentos
 
 - [Conhecimento consolidado](conhecimento.md)
 - [Fontes e referências](fontes.md)
 - [Perguntas e pendências](perguntas.md)
+
+## Formação
+
+- [Percurso parcial, referências e lacunas](percurso-formacao.md)
 
 ## Mapa de investigação
 

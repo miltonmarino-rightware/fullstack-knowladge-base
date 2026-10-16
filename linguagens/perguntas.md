@@ -1,6 +1,6 @@
 # Linguagens — perguntas e pendências
 
-**Estado:** investigação por iniciar.
+**Estado:** curadoria iniciada; investigação técnica pendente.
 
 ## Pergunta inicial
 
@@ -24,3 +24,8 @@
 - [ ] Rever a síntese antes de promover procedimentos a padrão da RIGHTWARE.
 
 Marcar tarefas apenas com ligação para o documento ou evidência que demonstra a conclusão.
+
+## Formação
+
+- [x] Integrar e rever a seleção parcial da Parte II: [percurso](percurso-formacao.md).
+- [ ] Estudar as unidades selecionadas e preencher as lacunas do percurso.

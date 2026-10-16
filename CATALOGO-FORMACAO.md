@@ -248,3 +248,19 @@ Um recurso catalogado só passa a estudado após leitura ou análise efetiva. Um
 [Revisão documental](REVISAO-FORMACAO-PARTE-I.md) integrada, preservando as verificações anteriores. Percursos concretos em [Fundamentos](fundamentos/percurso-formacao.md) e [Dados](dados/percurso-formacao.md); estudo das unidades ainda pendente.
 
 R01: a [página oficial do certificado CS50](https://cs50.harvard.edu/x/certificate/) confirma certificado gratuito condicionado a pelo menos 70% em cada conjunto de problemas e no projeto final. Não é o mesmo que o certificado verificado edX.
+
+## Complemento da Parte II — 2026-10-16
+
+[Revisão e correções](REVISAO-FORMACAO-PARTE-II.md). Entradas abaixo são curadoria, não cursos concluídos. Materiais consultados em inglês, sem pressupor certificação ou avaliação externa.
+
+| ID | Recurso e acesso observado | Papel proposto e preparação | Verificação / próxima ação |
+| --- | --- | --- | --- |
+| R16 | [CS61B Spring 2026](https://sp26.datastructur.es/), calendário e materiais públicos | Java e estruturas; programação básica | Calendário consultado; estudar unidades do percurso de Linguagens |
+| R17 | [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/), documentação pública | Tipos; preparar JavaScript | Manual e páginas selecionadas consultados; fixar compilador ao executar |
+| R18 | [MDN Learn](https://developer.mozilla.org/en-US/docs/Learn_web_development), tutoriais públicos | Plataforma web; progressão desde fundamentos | Índice consultado; selecionar unidades conforme lacunas |
+| R19 | [OWASP Authorization Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html), referência pública | Complemento de segurança backend; HTTP e identidade | Recomendações consultadas; modelar decisões de autorização |
+
+R08 recebe uma unidade concreta: [Animation and motion](https://web.dev/learn/accessibility/motion/).
+R12 recebe o capítulo [Service Level Objectives](https://sre.google/sre-book/service-level-objectives/) como complemento de requisitos, não substituto de arquitetura modular.
+
+CS61B não substitui formação comparativa em linguagens. Nenhum recurso anterior foi rejeitado por não ter sido reavaliado no relatório externo.

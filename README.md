@@ -12,6 +12,8 @@ Estrutura criada em 2026-10-16. A investigação começou em Fundamentos, com um
 
 - [Catálogo de universidades, cursos, livros e vídeos](CATALOGO-FORMACAO.md)
 - [Revisão e integração do relatório — Parte I](REVISAO-FORMACAO-PARTE-I.md)
+- [Revisão da Parte II e correções](REVISAO-FORMACAO-PARTE-II.md)
+- [Estudar aulas com NotebookLM — fluxo e prompt](FLUXO-NOTEBOOKLM.md)
 - [Prompt autónomo para Perplexity — Parte II](PESQUISA-PERPLEXITY-PARTE-II.md)
 - [Pesquisa complementar para Perplexity](PESQUISA-PERPLEXITY-FORMACAO.md)
 
