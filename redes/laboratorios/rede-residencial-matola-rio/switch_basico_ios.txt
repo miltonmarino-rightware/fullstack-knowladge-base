@@ -1,0 +1,25 @@
+enable
+configure terminal
+hostname SW-CLIENTE
+interface vlan 1
+ ip address 192.168.50.2 255.255.255.0
+ no shutdown
+exit
+ip default-gateway 192.168.50.1
+interface fastEthernet0/1
+ description UPLINK-GW
+ switchport mode access
+ no shutdown
+exit
+interface fastEthernet0/2
+ description PC-ADMIN
+ switchport mode access
+ no shutdown
+exit
+interface fastEthernet0/3
+ description AP-INTERIOR
+ switchport mode access
+ no shutdown
+exit
+end
+write memory
