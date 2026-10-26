@@ -1,0 +1,18 @@
+enable
+configure terminal
+hostname GW-CLIENTE
+no ip domain-lookup
+interface GigabitEthernet0/0
+ description LAN - switch principal
+ ip address 192.168.50.1 255.255.255.0
+ no shutdown
+exit
+ip dhcp excluded-address 192.168.50.1 192.168.50.99
+ip dhcp excluded-address 192.168.50.200 192.168.50.254
+ip dhcp pool LAN-CLIENTE
+ network 192.168.50.0 255.255.255.0
+ default-router 192.168.50.1
+ dns-server 1.1.1.1
+exit
+end
+write memory
