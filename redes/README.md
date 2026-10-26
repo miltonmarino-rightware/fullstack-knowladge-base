@@ -12,6 +12,7 @@ Investigar → compreender → questionar → comparar → modelar → decidir �
 
 ## Navegação
 
+- [NET-001 — Arquitetura da comunicação de dados](investigacoes/NET-001-arquitetura-da-comunicacao.md)
 - [Mapa inicial de conhecimento](conhecimento.md)
 - [Fontes e critérios de seleção](fontes.md)
 - [Perguntas de investigação](perguntas.md)
