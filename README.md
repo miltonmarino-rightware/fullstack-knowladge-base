@@ -36,6 +36,7 @@ Prioridade atual: ampliar e avaliar materiais de formação por pilar, seleciona
 | [Segurança](seguranca/README.md) | Ameaças, desenvolvimento seguro, proteção de infraestrutura e verificação de controlos. |
 | [Qualidade](qualidade/README.md) | Testes, depuração, revisão de código e validação de requisitos. |
 | [Infraestrutura e produção](infraestrutura-e-producao/README.md) | Instalação local, servidores, cloud, CI/CD, monitorização, atualizações e recuperação. |
+| [Engenharia de Redes](redes/README.md) | Redes físicas e wireless, protocolos, routing, switching, sistemas de rede, diagnóstico e laboratórios. |
 | [Entrega profissional](entrega-profissional/README.md) | Estruturas de projeto, documentação, procedimentos operacionais e handoff. |
 
 ## Como utilizar
