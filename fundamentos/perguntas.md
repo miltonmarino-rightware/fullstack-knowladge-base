@@ -44,6 +44,6 @@ Marcar tarefas apenas com ligação para o documento ou evidência que demonstra
 ## FND-002 — estruturas e custos
 
 - [x] Produzir síntese documental das notas das aulas 2 e 4: [FND-002 — estruturas de dados e custos](02-estruturas-de-dados-e-custos.md).
-- [ ] Implementar o exercício e verificar os casos previstos.
+- [x] Implementar o exercício e verificar os casos previstos: [L04, resultados e limites](laboratorios/l04-primeiro-repetido/README.md).
 - [ ] Aprofundar demonstrações de complexidade e pesquisa binária.
 - [ ] Estudar árvores equilibradas e filas de prioridade.

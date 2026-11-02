@@ -1,0 +1,81 @@
+{
+  "estudo": "FND-002",
+  "python": "3.12.14",
+  "implementacao": "CPython",
+  "sistema": "Linux",
+  "codigo_sha256": "56d9c9b06b0b5b3c21223d51f50d85441b9f58c60adf1dfe12a45f8469611dc7",
+  "exemplos": [
+    {
+      "entrada": [],
+      "esperado": null,
+      "observado": null
+    },
+    {
+      "entrada": [
+        0
+      ],
+      "esperado": null,
+      "observado": null
+    },
+    {
+      "entrada": [
+        0,
+        0
+      ],
+      "esperado": 0,
+      "observado": 0
+    },
+    {
+      "entrada": [
+        8,
+        3,
+        8,
+        3
+      ],
+      "esperado": 8,
+      "observado": 8
+    },
+    {
+      "entrada": [
+        9,
+        2,
+        2,
+        9
+      ],
+      "esperado": 2,
+      "observado": 2
+    },
+    {
+      "entrada": [
+        -1,
+        0,
+        -1
+      ],
+      "esperado": -1,
+      "observado": -1
+    },
+    {
+      "entrada": [
+        1,
+        2,
+        3
+      ],
+      "esperado": null,
+      "observado": null
+    }
+  ],
+  "dominio_exaustivo": [
+    -2,
+    -1,
+    0,
+    1,
+    2
+  ],
+  "comprimentos": [
+    0,
+    6
+  ],
+  "casos_exaustivos": 19531,
+  "falhas": 0,
+  "limite": "Verificacao funcional finita; nao e benchmark ou prova universal."
+}

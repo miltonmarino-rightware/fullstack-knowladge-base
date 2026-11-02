@@ -2,7 +2,7 @@
 
 - **Pilar:** Fundamentos.
 - **Data:** 2026-11-02.
-- **Estado:** síntese documental; exercício analítico próprio; sem benchmark.
+- **Estado:** síntese documental; exercício implementado e verificado num domínio finito; sem benchmark.
 - **Autor/revisor:** assistente; revisão independente pendente.
 - **Contexto:** MIT 6.006, Spring 2020, notas das aulas 2 e 4.
 
@@ -78,7 +78,7 @@ Casos de revisão manual propostos:
 | [0, 0] | Encontrado(0) |
 | [8, 3, 8, 3] | Encontrado(8) |
 
-Os resultados são deduções do contrato, não saídas de execução. A implementação e os testes automáticos permanecem pendentes. Usar um resultado marcado evita confundir o código 0 com ausência.
+Os casos acima foram executados em 2026-11-02 no [L04 — código e evidência](laboratorios/l04-primeiro-repetido/README.md), juntamente com outros três exemplos e 19.531 sequências do domínio finito descrito no laboratório. Não houve falhas. A implementação usa None para ausência sob o contrato de códigos inteiros, distinguindo-o de zero. Esta evidência não é benchmark nem prova universal.
 
 ## 10. Consolidar e rever
 

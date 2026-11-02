@@ -75,3 +75,7 @@ Em 2026-10-16, adicionados [LNG-001](linguagens/01-tipos-e-execucao.md) e [FRT-0
 ## FND-002 — estruturas de dados e custos
 
 Em 2026-11-02, consultadas as notas das aulas 2 e 4 do MIT 6.006 Spring 2020. [Estudo integrado](fundamentos/02-estruturas-de-dados-e-custos.md) com custos condicionados, exercício próprio, invariante e casos esperados. Sem benchmark ou execução de código nesta etapa. A estimativa de progresso anterior não foi recalculada.
+
+## Verificação complementar FND-002
+
+Em 2026-11-02, executado [L04](fundamentos/laboratorios/l04-primeiro-repetido/README.md): sete exemplos e 19.531 sequências de domínio finito, comparados com oráculo por pares de índices. Zero divergências. Código, ambiente e resultado guardados; não foi realizado benchmark. A formação ampla continua; próxima unidade proposta: pesquisa binária e invariantes.
