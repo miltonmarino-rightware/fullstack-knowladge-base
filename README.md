@@ -51,6 +51,8 @@ Cada pasta contém `README.md` (índice), `conhecimento.md` (documento principal
 
 ## Investigação em curso
 
+- [FND-002 — estruturas de dados e custos](fundamentos/02-estruturas-de-dados-e-custos.md)
+
 - [LNG-001 — tipos e execução](linguagens/01-tipos-e-execucao.md)
 - [FRT-001 — navegador e interação](frontend/01-navegador-semantica-e-interacao.md)
 

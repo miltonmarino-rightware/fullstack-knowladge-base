@@ -1,6 +1,6 @@
 # Investigação com ChatGPT e Perplexity
 
-**Atualização:** 2026-10-16.
+**Atualização:** 2026-11-02.
 
 ## Divisão de trabalho proposta
 
@@ -71,3 +71,7 @@ Em 2026-10-16, criados [INF-001](infraestrutura-e-producao/01-operacao-e-recuper
 ## Linguagens e Frontend — primeiro estudo
 
 Em 2026-10-16, adicionados [LNG-001](linguagens/01-tipos-e-execucao.md) e [FRT-001](frontend/01-navegador-semantica-e-interacao.md), a partir do TypeScript Handbook e MDN. Exemplos próprios e planos de verificação, ainda não executados. Próxima expansão: narrowing e tipos estruturais; formulários, DOM/eventos e estados acessíveis. NotebookLM continua opcional; não houve nova entrega do Perplexity nesta etapa.
+
+## FND-002 — estruturas de dados e custos
+
+Em 2026-11-02, consultadas as notas das aulas 2 e 4 do MIT 6.006 Spring 2020. [Estudo integrado](fundamentos/02-estruturas-de-dados-e-custos.md) com custos condicionados, exercício próprio, invariante e casos esperados. Sem benchmark ou execução de código nesta etapa. A estimativa de progresso anterior não foi recalculada.

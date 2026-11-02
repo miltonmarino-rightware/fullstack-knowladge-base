@@ -16,6 +16,8 @@ Computação, lógica, estruturas de dados, sistemas operativos e redes.
 
 ## Estudos disponíveis
 
+- [FND-002 — estruturas de dados e custos](02-estruturas-de-dados-e-custos.md)
+
 - [FND-001 — do pedido web à alteração dos dados](01-percurso-de-um-pedido.md)
 - [Tarefa original para Perplexity](pesquisa-perplexity-001.md)
 

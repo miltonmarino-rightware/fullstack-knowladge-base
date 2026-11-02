@@ -36,3 +36,7 @@ O estudo anterior consultou partes dos capítulos 4 e 26 em [FND-001](01-percurs
 CS50x permanece opção de diagnóstico/revisão, sem repetição integral obrigatória. CS144 continua candidato de redes; verificar edição, preparação e acesso aos laboratórios. Matemática discreta ainda precisa de recurso específico avaliado.
 
 Progressão proposta: conseguir explicar, justificar, apresentar um contraexemplo e identificar uma dúvida residual. Um exercício isolado não demonstra domínio do pilar. Seguir o [modelo comum](../MODELO-DE-INVESTIGACAO.md) e registar referências efetivamente estudadas em [fontes](fontes.md).
+
+## Avanço em 2026-11-02
+
+Notas das aulas 2 e 4 consultadas e integradas em [FND-002 — estruturas de dados e custos](02-estruturas-de-dados-e-custos.md). Foram produzidos comparação e exercício próprios. Aulas 1 e 3, vídeos e resolução dos exercícios institucionais continuam pendentes; não marcar o curso como concluído.

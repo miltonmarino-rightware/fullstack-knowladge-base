@@ -33,3 +33,7 @@ Pendente: investigar os conceitos e mecanismos, explicar exemplos, questionar li
 Cada tema deverá explicar o que é, como funciona, que problema resolve, quando usar ou evitar, alternativas, riscos e formas de verificação. Distinguir afirmações verificadas, hipóteses e dúvidas. Exemplos não executados devem ser identificados como tal.
 
 Consultar [fontes](fontes.md) e [perguntas](perguntas.md).
+
+## Estruturas e custos — síntese inicial de 2026-11-02
+
+[FND-002 — estruturas de dados e custos](02-estruturas-de-dados-e-custos.md) apresenta interfaces, representações, custos condicionados e um exercício de deteção de repetidos. A leitura documental não conclui os temas da agenda nem constitui benchmark. As hipóteses e os casos propostos estão no estudo.

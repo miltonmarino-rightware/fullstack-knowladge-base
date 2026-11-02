@@ -40,3 +40,10 @@ Marcar tarefas apenas com ligação para o documento ou evidência que demonstra
 - [x] Integrar seleção de unidades da Parte I no [percurso de formação](percurso-formacao.md).
 - [ ] Estudar as unidades selecionadas e registar sínteses próprias com fontes.
 - [ ] Preencher as lacunas curriculares identificadas no percurso.
+
+## FND-002 — estruturas e custos
+
+- [x] Produzir síntese documental das notas das aulas 2 e 4: [FND-002 — estruturas de dados e custos](02-estruturas-de-dados-e-custos.md).
+- [ ] Implementar o exercício e verificar os casos previstos.
+- [ ] Aprofundar demonstrações de complexidade e pesquisa binária.
+- [ ] Estudar árvores equilibradas e filas de prioridade.

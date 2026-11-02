@@ -19,3 +19,12 @@ Registar uma referência por entrada, com identificador estável, por exemplo `f
 Estados das fontes: descoberta → consultada → avaliada. Avaliar relevância, autoridade, atualidade e aplicabilidade. Uma fonte avaliada não prova, por si só, competência prática.
 
 Priorizar documentação oficial, especificações e referências primárias. Registar divergências e contexto. Identificar sínteses de IA como material a verificar; preservar a fonte original. Guardar apenas materiais com permissão de reprodução; nos restantes casos, guardar referência e síntese própria.
+
+## FND-002 — notas universitárias consultadas em 2026-11-02
+
+| ID | Fonte original | Edição e secções | Avaliação e limites |
+| --- | --- | --- | --- |
+| fundamentos-F010 | [MIT — Lecture 2: Data Structures](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/79a07dc1cb47d76dae2ffedc701e3d2b_MIT6_006S20_lec2.pdf) | Spring 2020, pp. 1–4: interfaces, sequências e amortização | Notas consultadas; modelo teórico, vídeos e exercícios não concluídos |
+| fundamentos-F011 | [MIT — Lecture 4: Hashing](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/ce9e94705b914598ce78a00a70a1f734_MIT6_006S20_lec4.pdf) | Spring 2020, pp. 1–4: comparação, colisões, encadeamento e hashing universal | Notas consultadas; garantias condicionadas ao modelo; sem benchmark |
+
+Autores/docentes indicados nas notas: Erik Demaine, Jason Ku e Justin Solomon. Em FND-002, F010/F011 abreviam os identificadores completos desta tabela.
